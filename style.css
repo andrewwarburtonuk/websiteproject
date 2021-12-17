@@ -39,6 +39,14 @@ h3{
     font-size: 18px;
     text-decoration: none;
 }
+.newdivunder{
+    padding: 5px; 
+    background-color:rgb(2, 5, 217);
+    color: rgb(228, 225, 243);
+    font-size: 18px;
+    text-decoration:underline
+
+}
 
 .flexit{ 
     display: flex;
