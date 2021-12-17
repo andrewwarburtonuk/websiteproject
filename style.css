@@ -51,7 +51,8 @@ h3{
     color: rgb(217, 255, 0);
     /* background-color:rgb(2, 5, 217); */
     text-decoration-line: underline;
-
+    background-color:rgb(2, 5, 217);
+    font-size: 18px;
 }
 .flexit{ 
     display: flex;
