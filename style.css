@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@400;700&family=Rubik:wght@300&display=swap');
+
+
+
+/*comment*/
+
+
+/* google fonts */
+
+
+
+body{
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Rubik', sans-serif;
+    overflow-y: scroll; 
+    background-color: rgb(148,227,254);
+    font-weight: bold;
+    
+
+}
+h1{
+    color: rgb(148,227,254);
+}
+
+h3{
+
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.newdiv{
+    padding: 5px; 
+    background-color:rgb(2, 5, 217);
+    color: rgb(228, 225, 243);
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.flexit{ 
+    display: flex;
+    /* background-color:rgb(2, 5, 217); */
+    justify-content: flex-end;
+  
+}
+.newdiv:hover{
+    color: rgb(217, 255, 0);
+    /* background-color:rgb(2, 5, 217); */
+    text-decoration-line: underline;
+}  
+
+.homey{
+    text-decoration-line: underline;  
+}
+
+.maillstyl{
+    padding:45px;
+    display: flex;
+    justify-content: center;
+    color: rgb(52, 16, 184);
+    font-size: 28px;
+    font-weight: bold;
+}
+.maillstyl:hover{
+    color: rgb(229, 255, 0);
+}
+.undertext{
+
+    /* display: flex;
+    justify-content: center; */
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+.keepsize{
+    width: 10%;
+    height: 10%;
+
+}
+.linkintext{ 
+    padding:15px;
+    display: flex;
+    justify-content: center;
+    color: rgb(52, 16, 184);
+    font-size: 28px;
+    font-weight: bold;
+    text-decoration:
+}
+.linkintext:hover{
+    color: rgb(229, 255, 0);
+}
+.textcenter{
+    margin-left: 30%; 
+    margin-right:50%; 
+    width: 620px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.indexlinks{
+    color: rgb(52, 16, 184);
+}
+.indexlinks:hover{
+    color: rgb(229, 255, 0);
+}
+
+
+
+
+
+
+#header{
+    text-align: center;
+}
+
+    
+.breaking{
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    vertical-align:top; 
+    display: inline-block;
+    text-align: top;
+    width: 420px; 
+}
+.alignment{
+    padding: 20px;
+} 
