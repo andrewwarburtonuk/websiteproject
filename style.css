@@ -47,7 +47,12 @@ h3{
     text-decoration:underline
 
 }
+.newdivunder:hover{
+    color: rgb(217, 255, 0);
+    /* background-color:rgb(2, 5, 217); */
+    text-decoration-line: underline;
 
+}
 .flexit{ 
     display: flex;
     /* background-color:rgb(2, 5, 217); */
